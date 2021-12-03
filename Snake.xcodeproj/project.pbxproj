@@ -51,7 +51,6 @@
 		66F10B782754E2DB0017132D = {
 			isa = PBXGroup;
 			children = (
-				66F10B9B27573A100017132D /* Apple.swift */,
 				66F10B832754E2DB0017132D /* Snake */,
 				66F10B822754E2DB0017132D /* Products */,
 			);
@@ -68,6 +67,7 @@
 		66F10B832754E2DB0017132D /* Snake */ = {
 			isa = PBXGroup;
 			children = (
+				66F10B9B27573A100017132D /* Apple.swift */,
 				66F10B842754E2DB0017132D /* AppDelegate.swift */,
 				66F10B9D275752180017132D /* SnakeBodyPart.swift */,
 				66F10B862754E2DB0017132D /* GameScene.sks */,
